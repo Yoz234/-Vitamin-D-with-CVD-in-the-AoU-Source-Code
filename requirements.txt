@@ -1,0 +1,15 @@
+# Unpinned dependency inventory; see ENVIRONMENT.md. Hail/Spark and R are separate.
+numpy
+pandas
+scipy
+matplotlib
+statsmodels
+lifelines
+google-cloud-bigquery
+google-cloud-bigquery-storage
+pandas-gbq
+db-dtypes
+pyarrow
+openpyxl
+ipython
+ipykernel
